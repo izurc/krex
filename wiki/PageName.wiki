@@ -15,7 +15,7 @@ To get started:
   * Set appropriate variables for pdi_repo_to_export, pdi_repo_user, pdi_repo_password and Save
 * run "export_repository_to_files.kjb"
 
-If all goes well, you should get a directory called pdi_repo_export in your home directory (/home/<username> on *nix, and usually C:\Documents and Settings\<username> on win*), and in that dir you should find a subdir named after the repository name you specified. Inside that subdir, the entire directory tree of the repository should be present containing the jobs and transformations as .kjb and .ktr files respectively.
+If all goes well, you should get a directory called pdi_repo_export in your home directory (/home/*username* on *nix, and usually C:\Documents and Settings\*username* on win*), and in that dir you should find a subdir named after the repository name you specified. Inside that subdir, the entire directory tree of the repository should be present containing the jobs and transformations as .kjb and .ktr files respectively.
 
 Note that this software is offered to you on an As-Is basis with no warranty. Yes, you disk may get corrupted. Your computer may burst into flames. Or perhaps it may just work and suit your needs.
 
